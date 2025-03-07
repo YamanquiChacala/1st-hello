@@ -23,12 +23,16 @@ En este simple ejercicio practicarás utilizando tu cuenta de GitHub, corrigiend
 
 ## Entrega tu código corregido
 
-1. Ve a la pestaña de _source control_ (<img src="https://img.favpng.com/13/22/9/computer-icons-branching-source-code-version-control-fork-png-favpng-9NB38BueipNZmeqyRSTDQHTUg_t.jpg"  height="20">)
-2. Escribe un mensaje describiendo tus cambios en el cuadro de texto.
-3. Da click en el botón ➕ a la derecha de los archivos que modificaste.
-4. Selecciona `Commit`
-5. Una vez que termine, selecciona `Sync Changes`
-6. Acepta y de ser necesario ingresa a tu cuenta de _GitHub_
+1. Del menú `Terminal` selecciona `New Terminal`
+2. En la pantalla que se abre abajo, escribe las siguientes instrucciones:
+   - git config user.name <_tu_nombre_sin_espacios_>
+   - git config user.email <_tu_email_>
+3. Ve a la pestaña de _source control_ (<img src="https://img.favpng.com/13/22/9/computer-icons-branching-source-code-version-control-fork-png-favpng-9NB38BueipNZmeqyRSTDQHTUg_t.jpg"  height="20">)
+4. Escribe un mensaje describiendo tus cambios en el cuadro de texto.
+5. Da click en el botón ➕ a la derecha de los archivos que modificaste.
+6. Selecciona `Commit`
+7. Una vez que termine, selecciona `Sync Changes`
+8. Acepta y de ser necesario ingresa a tu cuenta de _GitHub_
 
 # ¡Listo!
 
