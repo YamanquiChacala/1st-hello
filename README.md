@@ -25,9 +25,9 @@ En este simple ejercicio practicarás utilizando tu cuenta de GitHub, corrigiend
 
 1. Ve a la pestaña de _source control_ (<img src="https://img.favpng.com/13/22/9/computer-icons-branching-source-code-version-control-fork-png-favpng-9NB38BueipNZmeqyRSTDQHTUg_t.jpg"  height="20">)
 2. Escribe un mensaje describiendo tus cambios en el cuadro de texto.
-3. Da click en el botón :heavy-plus-sign: a la derecha de los archivos que modificaste.
+3. Da click en el botón ➕ a la derecha de los archivos que modificaste.
 4. Selecciona `Commit`
-5. Una vez que termine, selecciona `Sync`
+5. Una vez que termine, selecciona `Sync Changes`
 6. Acepta y de ser necesario ingresa a tu cuenta de _GitHub_
 
 # ¡Listo!
